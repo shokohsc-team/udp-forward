@@ -1,5 +1,5 @@
 // Package forward contains a UDP packet forwarder.
-package forward
+package main
 
 import (
 	"log"
